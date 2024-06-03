@@ -1,4 +1,4 @@
-# vue-expense-tracker
+# vue-composition-api
 
 Building an Expense Tracker application from scratch using Vue.js 3 and the Composition API with the latest syntax introduced in version 3.2.
 
